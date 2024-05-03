@@ -30,7 +30,7 @@ seguem abaixo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [Copilot](https://copilot.microsoft.com/images/create/pixelated-white-cat-with-black-background-and-octo/1-66353e019db4463a8da2a79b5c4e356f?id=aPr94ef4bTDOu6D%2b2MNklQ%3d%3d&view=detailv2&idpp=genimg&idpclose=1&thId=OIG2.hQVK6YrBGpUVJyjxXdUL&FORM=SYDBIC)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
@@ -41,7 +41,12 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+| conteúdo | crie um guia basico dos comandos do guithub com as regas abaixo:
+{REGRAS}
+> FALE COMO SE FOSSE UM YOUTUBER
+> CRIE UM TITULO E SUBTITULO
+> CRIE UM CODIGO DE EXEMPLO
+> COMECE PELOS COMANDOS DE CONGIGURAÇÃO DO GLOBAL E DEPOIS |
 
 
 Midjourney：
