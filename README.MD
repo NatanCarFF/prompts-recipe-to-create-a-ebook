@@ -32,6 +32,7 @@ seguem abaixo.
 - [ChatGPT](https://chat.openai.com/) 
 - [Copilot](https://copilot.microsoft.com/images/create/pixelated-white-cat-with-black-background-and-octo/1-66353e019db4463a8da2a79b5c4e356f?id=aPr94ef4bTDOu6D%2b2MNklQ%3d%3d&view=detailv2&idpp=genimg&idpclose=1&thId=OIG2.hQVK6YrBGpUVJyjxXdUL&FORM=SYDBIC)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- [ShowCode](https://showcode.app/)
 
 ## 🧠 Prompts
 
@@ -47,7 +48,7 @@ ChatGPT：
 > CRIE UM TITULO E SUBTITULO
 > CRIE UM CODIGO DE EXEMPLO
 > COMECE PELOS COMANDOS DE CONGIGURAÇÃO DO GLOBAL E DEPOIS |
-
+|
 
 Midjourney：
 
