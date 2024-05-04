@@ -43,11 +43,11 @@ ChatGPT：
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
 | conteúdo | crie um guia basico dos comandos do guithub com as regas abaixo:
+crie um capitulo para ebook guithub com as regas abaixo:
+FALE COMO SE FOSSE UM ESCRITOR PROFISSIONAL DE EBOOK E CRIE UM BREVE RESUMO SOBRE: 2.1 git add: Adicionando arquivos ao stage para o próximo commit.
 {REGRAS}
-> FALE COMO SE FOSSE UM YOUTUBER
-> CRIE UM TITULO E SUBTITULO
-> CRIE UM CODIGO DE EXEMPLO
-> COMECE PELOS COMANDOS DE CONGIGURAÇÃO DO GLOBAL E DEPOIS |
+> ORGANIZE NA ORDEM TÍTULO SIMPLES, INTRODUÇÃO DE ATE 5 LINHAS, RESUMO, EXEMPLO DE CÓDIGO
+> ADICIONE OS CODIGOS DE EXEMPLO SE NECESSÁRIO
 |
 
 Midjourney：
@@ -96,3 +96,4 @@ felipe-exe">LinkedIn</a>
 ---
 
 ⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+
