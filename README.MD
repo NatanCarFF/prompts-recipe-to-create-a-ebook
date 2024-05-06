@@ -41,7 +41,7 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
+|  título  | Crie um título de um ebook sobre o tema de github, o ebookk é do nicho de programação e o subnicho é de github, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
 | conteúdo | crie um guia basico dos comandos do guithub com as regas abaixo:
 crie um capitulo para ebook guithub com as regas abaixo:
 FALE COMO SE FOSSE UM ESCRITOR PROFISSIONAL DE EBOOK E CRIE UM BREVE RESUMO SOBRE: 2.1 git add: Adicionando arquivos ao stage para o próximo commit.
@@ -50,16 +50,16 @@ FALE COMO SE FOSSE UM ESCRITOR PROFISSIONAL DE EBOOK E CRIE UM BREVE RESUMO SOBR
 > ADICIONE OS CODIGOS DE EXEMPLO SE NECESSÁRIO
 |
 
-Midjourney：
+Copilot：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | Gato branco pixelado com tentaculos no lugar das patas, background preto |
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via Copilot
 
 ## 📚 Materiais
 
@@ -70,23 +70,23 @@ Midjourney：
 
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
 
-## 👨‍💻 Expert
+## 👨‍💻 Dev
 
 <p>
     <img 
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://avatars.githubusercontent.com/u/161735922?v=4"
     />
     <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
+    <a href="https://github.com/NatanCarFF">
     GitHub</a>&nbsp;|&nbsp;
     <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
+natanaelcarvalhodasilva">LinkedIn</a>
 &nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
+    <a href="https://www.instagram.com/natancarff/">
     Instagram</a>
 &nbsp;|&nbsp;</p>
 </p>
@@ -95,5 +95,5 @@ felipe-exe">LinkedIn</a>
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Natanael Carvalho](https://github.com/NatanCarFF)
 
